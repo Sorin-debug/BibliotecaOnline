@@ -1,0 +1,8 @@
+1;Povesti Nemuritoare;Petre Ispirescu;1987;200
+2;Amintiri din copilarie;Ion Creanga;1900;300
+3;Vremuri de odinioara;Vasile Ion;1988;100
+4;Canta cucul;Vasile Toparceanu;1956;50
+5;Valahia;Vlad Tepes;1456;1500
+6;Viata de apoi;Ion Adineauri;2000;67
+7;Randunica;Mihai Viteazul;1400;950
+8;Dealurile verzi;Stefan Costache;1400;650
