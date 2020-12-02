@@ -18,10 +18,7 @@ private void afisareObiect(Carte x){
     System.out.println("Pret carte: " +  x.getPret() + " lei.");
     System.out.println("");
 
-
-
 }
-
 
 public void afisareBiblioteca(){
     System.out.println("Afisare toate cartile disponibile:");
@@ -32,8 +29,7 @@ public void afisareBiblioteca(){
     }
 }
 
-
-    public void afisareCartiTitlu(){
+public void afisareCartiTitlu(){
     System.out.println("Afisare dupa Titlu carti disponibile:");
         for (Carte x : carti) {
             if (x != null) {

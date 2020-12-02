@@ -14,7 +14,6 @@ public class Carte {
         this.an = an;
         this.pret = pret;
 
-
     }
 
     public int getId() {

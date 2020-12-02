@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	// Start here
+	// Coding Starts here
 
         File listaBooks = new File("biblioteca.txt");
 
@@ -81,6 +81,6 @@ public class Main {
 
         }while(running);
 
-        //end of main
+        //end of code - main section
     }
 }
